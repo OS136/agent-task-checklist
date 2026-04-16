@@ -75,7 +75,7 @@ export default function TaskChecklist() {
         />
         <button
           type="submit"
-          className="rounded-lg bg-zinc-900 px-4 py-2 font-medium text-white transition hover:bg-zinc-700"
+          className="rounded-lg bg-violet-500 px-4 py-2 font-medium text-white transition hover:bg-violet-700"
         >
           Add Task
         </button>
