@@ -1,6 +1,7 @@
 {
   "name": "task-checklist",
   "version": "0.1.0",
+  "description": "A simple Next.js task checklist app with persistent local storage.",
   "private": true,
   "scripts": {
     "dev": "next dev",
